@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-ndarray-ddot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the dot product of two one-dimensional double-precision floating-point ndarrays.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-base-ddot": "^0.3.0",
+    "@stdlib/blas-base-ddot": "^0.4.0",
     "@stdlib/ndarray-base-data-buffer": "^0.2.2",
     "@stdlib/ndarray-base-numel-dimension": "^0.3.2",
     "@stdlib/ndarray-base-offset": "^0.2.2",
